@@ -21,6 +21,13 @@
             "TieuThuHydrat": 1.9,
             "DongBaoAlumin": 5.321,
             "DongBaoHydrat": 0
+        },
+        {
+            "Day": 4,
+            "TieuThuAlumin": 800.345,
+            "TieuThuHydrat": 5.9,
+              "DongBaoAlumin": 10.321,
+            "DongBaoHydrat": 0.513
         }
       ]
   }
