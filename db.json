@@ -1,6 +1,24 @@
 {
   "2022": {
-    "6": [
+    "5": 
+    [
+      {
+            "Day":  1,
+            "TieuThuAlumin": 100.345,
+            "TieuThuHydrat": 1.234,
+            "DongBaoAlumin": 2.345,
+            "DongBaoHydrat": 0
+      },
+      {
+            "Day": 2,
+            "TieuThuAlumin": 90.456,
+            "TieuThuHydrat": 2.567,
+            "DongBaoAlumin": 1.987,
+            "DongBaoHydrat": 0
+      }
+    ],
+    "6": 
+    [
         {
             "Day":  1,
             "TieuThuAlumin": 100.345,
