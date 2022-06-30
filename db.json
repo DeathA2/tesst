@@ -91,6 +91,125 @@
             "TieuThuHydrat": 4.54,
             "DongBaoAlumin": 3.345,
             "DongBaoHydrat": 1.213
+        },
+      {
+            "Day":  14,
+            "TieuThuAlumin": 100.345,
+            "TieuThuHydrat": 1.234,
+            "DongBaoAlumin": 2.345,
+            "DongBaoHydrat": 0
+        },
+        {
+            "Day": 15,
+            "TieuThuAlumin": 90.456,
+            "TieuThuHydrat": 2.567,
+            "DongBaoAlumin": 1.987,
+            "DongBaoHydrat": 0
+        },
+        {
+            "Day": 16,
+            "TieuThuAlumin": 200.345,
+            "TieuThuHydrat": 1.9,
+            "DongBaoAlumin": 5.321,
+            "DongBaoHydrat": 0
+        },
+        {
+            "Day": 17,
+            "TieuThuAlumin": 325.12,
+            "TieuThuHydrat": 2.567,
+            "DongBaoAlumin": 4.32,
+            "DongBaoHydrat": 0
+        },
+        {
+            "Day": 18,
+            "TieuThuAlumin": 245.56,
+            "TieuThuHydrat": 1.46,
+            "DongBaoAlumin": 5.32,
+            "DongBaoHydrat": 0
+        },
+        {
+            "Day": 19,
+            "TieuThuAlumin": 456.56,
+            "TieuThuHydrat": 9.234,
+            "DongBaoAlumin": 4.123,
+            "DongBaoHydrat": 0.123
+        },
+        {
+            "Day": 20,
+            "TieuThuAlumin": 789.2,
+            "TieuThuHydrat": 9.123,
+            "DongBaoAlumin": 10.42,
+            "DongBaoHydrat": 0.456
+        },
+        {
+            "Day": 21,
+            "TieuThuAlumin": 674.34,
+            "TieuThuHydrat": 5.123,
+            "DongBaoAlumin": 5.345,
+            "DongBaoHydrat": 0.23
+        },
+        {
+            "Day": 22,
+            "TieuThuAlumin": 234.43,
+            "TieuThuHydrat": 8.123,
+            "DongBaoAlumin": 3.45,
+            "DongBaoHydrat": 1.234
+        },
+        {
+            "Day": 23,
+            "TieuThuAlumin": 12.324,
+            "TieuThuHydrat": 5.54,
+            "DongBaoAlumin": 1.345,
+            "DongBaoHydrat": 0.213
+        },
+        {
+            "Day": 24,
+            "TieuThuAlumin": 120.324,
+            "TieuThuHydrat": 0.54,
+            "DongBaoAlumin": 2.345,
+            "DongBaoHydrat": 0.003
+        },
+        {
+            "Day": 25,
+            "TieuThuAlumin": 234.324,
+            "TieuThuHydrat": 4.54,
+            "DongBaoAlumin": 3.345,
+            "DongBaoHydrat": 1.213
+        },
+        {
+            "Day": 26,
+            "TieuThuAlumin": 600.324,
+            "TieuThuHydrat": 4.54,
+            "DongBaoAlumin": 3.345,
+            "DongBaoHydrat": 1.213
+        },
+      {
+            "Day": 27,
+            "TieuThuAlumin": 12.324,
+            "TieuThuHydrat": 5.54,
+            "DongBaoAlumin": 1.345,
+            "DongBaoHydrat": 0.213
+        },
+        {
+            "Day": 28,
+            "TieuThuAlumin": 120.324,
+            "TieuThuHydrat": 0.54,
+            "DongBaoAlumin": 2.345,
+            "DongBaoHydrat": 0.003
+        },
+        {
+            "Day": 29,
+            "TieuThuAlumin": 234.324,
+            "TieuThuHydrat": 4.54,
+            "DongBaoAlumin": 3.345,
+            "DongBaoHydrat": 1.213
+        },
+        {
+            "Day": 30,
+            "TieuThuAlumin": 600.324,
+            "TieuThuHydrat": 4.54,
+            "DongBaoAlumin": 3.345,
+            "DongBaoHydrat": 1.213
         }
     ]
 }
